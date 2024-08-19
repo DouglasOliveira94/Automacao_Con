@@ -1,4 +1,5 @@
-# Automacao_Con_OP
+Automação descontinuada na V: 4.0.2.1
+# Automacao OPERACIONAL
 Automação do setor de operações da concredito
 
 # Automação de Sistema
